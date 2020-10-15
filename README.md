@@ -1,0 +1,2 @@
+# ShopifyMonitor
+Discord Shopify Monitor
